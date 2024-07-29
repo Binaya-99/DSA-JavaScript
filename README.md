@@ -144,3 +144,11 @@ DSA-JavaScript/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
+
+## Getting Started
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/DSA-JavaScript.git
+   cd DSA-JavaScript
